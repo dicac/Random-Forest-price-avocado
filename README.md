@@ -6,8 +6,6 @@
 
 	“Target”, average price.
 	“Predictor variables”, : Total Volume, Small Hass, Large Hass, Total Bags, Small Bags, XLarge Bags, type, year, region.
-	“avg_edu”, average employed population according to educational level. 
-	“income_am”, average monthly labor income.
   
 ### 2. Exploratory Data Analysis
 | Date | AverangePrice | Total Volume | Small Hass | Large Hass | Total Bags | XLarge Bags |type | year | region|
