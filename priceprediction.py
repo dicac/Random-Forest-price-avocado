@@ -22,7 +22,7 @@ y = data['AveragePrice']
 
 #Splitting the data into training and test datasets
 
-train_X, test_X, train_y, test_y = train_test_split(x, y, random_state = 0)
+train_X, test_X, train_y, test_y = train_test_split(x, y, random_state = 0, shuffle=False )
 
 ##Scaling the values
 train_s = train_X.values
